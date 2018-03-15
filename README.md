@@ -1,5 +1,7 @@
 # sshd-backdoor-example- linux-x86
 SSH Backdoor example !
+@by lizard2h;
+@thanks to k3nsh1n for "instiga" ;)
 
 ## Compile ASM
 strace -e execve,symlink ./a.out 
