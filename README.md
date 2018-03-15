@@ -1,4 +1,4 @@
-# sshd-backdoor-example-
+# sshd-backdoor-example- linux-x86
 SSH Backdoor example !
 
 ## Compile ASM
